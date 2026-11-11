@@ -1,0 +1,10 @@
+{
+  "skill": "social-media-analyzer",
+  "test_cases": [
+    {"input": "analyze my youtube shorts why low views", "should_trigger": true},
+    {"input": "where did my twitter followers come from", "should_trigger": true},
+    {"input": "1 engaged view at 100% on my latest short", "should_trigger": true},
+    {"input": "write a funny caption for this meme", "should_trigger": false},
+    {"input": "explain my grok weekly usage limit", "should_trigger": false}
+  ]
+}

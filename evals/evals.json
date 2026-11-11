@@ -1,0 +1,32 @@
+{
+  "skill": "social-media-analyzer",
+  "test_cases": [
+    {
+      "name": "youtube_shorts_low_views",
+      "input": "My latest YouTube Short only has 1 view and 1 engaged view at 100%. Why isn't YouTube testing it?",
+      "assertions": [
+        "Explains Shown in feed vs engaged views",
+        "Notes that 1 engaged view means distribution barely started",
+        "Mentions checking Shown in feed in Studio"
+      ]
+    },
+    {
+      "name": "x_follower_origin",
+      "input": "I got two new followers on Twitter. Can you check where they came from? My username is jasejokerr",
+      "assertions": [
+        "States private follower lists are not accessible",
+        "Directs user to sort Followers by Latest",
+        "Mentions X Analytics or third-party tools for aggregate location"
+      ]
+    },
+    {
+      "name": "shorts_uneven_performance",
+      "input": "Some of my YouTube Shorts get thousands of views and others get almost nothing. I upload everything the same way from CapCut.",
+      "assertions": [
+        "Explains seed audience testing and retention variance",
+        "References Oct 2026 originality update for clip-style content",
+        "Notes CapCut upload method is not the cause"
+      ]
+    }
+  ]
+}
