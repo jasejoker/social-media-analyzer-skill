@@ -25,3 +25,11 @@ Source: the post's Reposts list (x.com/JaseJokerr/status/2119613444232188145/ret
 - Median reposter: 52 followers. 119 of 135 counted have under 1,000. All visible reposters combined have about 94K followers, less than half of the post's 207.4K impressions.
 - Conclusion: the reach came mainly from X's own For You recommendations, not from one repost. The trigger was the post's engagement: 21,711 engagements on 207.4K impressions (10.5%), against about 0.3% on a normal post.
 - Not checkable here: when each repost happened, and whether the 44 hidden reposters include a large account.
+
+## @SimolMota (largest visible reposter), checked Nov 12, 2026
+
+- Profile: joined April 2026, about 11K posts, 17.8K followers, 4,205 following, default avatar, no bio.
+- Own posts: bare links to other accounts' adult videos; the last one is Aug 14, 2026. Since then the account only reposts.
+- Reposts tab: Jase's post is #164 from the top. The newest 174 reposts are almost all adult clips from other accounts, originally posted Nov 9-12. So it reposts roughly 100+ posts a day.
+- When it reposted Jase's post: after Nov 11, 10:15 UTC (5:15 AM Eastern), because a post it reposted before Jase's was created at that time. X does not show exact repost times, so this is a lower bound; the volume of later reposts puts it most likely on Nov 11.
+- Reading: a repost-aggregator account (likely automated). Timing fits the Nov 11 spike, but with 17.8K followers it cannot explain 207K impressions by itself.
