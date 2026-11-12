@@ -9,7 +9,7 @@ Collected 2026-11-12 from YouTube Studio (Jordan's own Chrome, signed in). All n
 3. **Views almost never become subscribers.** @jasejoker: 14 new subs from 60.5K views (0.023%). @jasejokerr: 8 new subs from 23.3K views (0.034%). Shorts viewers scroll past.
 4. **@jasejoker does better than @jasejokerr because of volume and consistency**, not a secret. 12 Shorts since Oct 20 vs 3 on @jasejokerr (which also stopped posting after Oct 31).
 5. **Reposted TikTok clips are a monetization risk**, and several already have copyright claims (list below).
-6. **A paid promotion ran on @jasejokerr.** Studio's Content > Promotions tab shows one promotion: the "That's my dog" Short, started Nov 1, 2026, goal "Video views", status Ended, cost $4.91, 2,245 impressions, 1,385 views, 0 subscribers. This explains the 2,281 views labelled "YouTube advertising". Jordan says he did not knowingly run an ad, so who started it and which payment method paid for it is unresolved. Paid views generally don't count toward monetization thresholds, and they produced 0 subscribers.
+6. **A paid promotion ran on @jasejokerr.** Studio's Content > Promotions tab shows one promotion: the "That's my dog" Short, started Nov 1, 2026, goal "Video views", status Ended, cost $4.91, 2,245 impressions, 1,385 views, 0 subscribers. This explains the 2,281 views labelled "YouTube advertising". Jordan confirmed he paid for it himself (he had forgotten). Paid views generally don't count toward monetization thresholds, and they produced 0 subscribers.
 
 ## Channel snapshot
 
@@ -83,12 +83,12 @@ Sum of the 12 Shorts: about 56.6K views. Median Short: about 1.3K views. Top 2 S
 ## Risks
 
 - **Copyright claims on reposted clips:** "Bro is having a bad day" (blocked in some territories, @jasejoker), "So true #gaming #gta6" (blocked in some territories, @jasejokerr), "Gravity undefeated" (notice). A claim is not a strike, but repeated claims and re-used clips from TikTok can fail YouTube's reused / unoriginal content review at the monetization stage.
-- **Unexplained $4.91 promotion on @jasejokerr** (see finding 6): paid views usually don't count, and the charge went to some payment method. Worth checking Google payments / Google Ads billing and who has manager access to the channel.
+- **$4.91 promotion on @jasejokerr** (see finding 6): Jordan paid for it. Paid views usually don't count toward monetization, and it produced 0 subscribers.
 - **Old trading videos on @jasejoker** (stock call options, "live trading") and drafts are outside the meme theme.
 
 ## What is not known
 
-- Who started the Nov 1 promotion and which payment method was charged (Studio shows the promotion but not who created it).
+- Nothing outstanding on the promotion; it is explained.
 - Why "qualified" Shorts views are lower than total views.
 - Demographics by country, retention per second, and returning-viewer rate (not pulled).
 - Anything about revenue: neither channel is monetized.
