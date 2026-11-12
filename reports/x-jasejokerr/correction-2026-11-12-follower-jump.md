@@ -15,3 +15,13 @@ The jump came from the Nov 8 video "Shape over size" (#twerk #goon #latina), not
 - 7-day totals (Nov 6-12): 442.1K impressions, 22.6K engagements, 13K profile visits, 5.6K likes, 195 reposts, 3.2K bookmarks, 582 shares.
 
 Part 1 sections that say the road rage video caused the jump are replaced by this file.
+
+## Who reposted it (checked Nov 12, 2026)
+
+Source: the post's Reposts list (x.com/JaseJokerr/status/2119613444232188145/retweets), with follower counts read from each account's hover card. Quotes: none.
+
+- X counts 183 reposts; 139 reposters are visible (the rest are likely protected, suspended or deleted accounts).
+- No big account reposted it. The largest visible reposters: @SimolMota 17.8K followers, @gothenbornbu 13.1K, @RODIGAR85 10.4K, @Snickerninja 9.1K, @Musicaentusman1 6.1K.
+- Median reposter: 52 followers. 119 of 135 counted have under 1,000. All visible reposters combined have about 94K followers, less than half of the post's 207.4K impressions.
+- Conclusion: the reach came mainly from X's own For You recommendations, not from one repost. The trigger was the post's engagement: 21,711 engagements on 207.4K impressions (10.5%), against about 0.3% on a normal post.
+- Not checkable here: when each repost happened, and whether the 44 hidden reposters include a large account.
