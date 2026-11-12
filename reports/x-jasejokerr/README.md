@@ -8,8 +8,9 @@ Data and findings for the Jase Joker X account audit.
 | `correction-2026-11-12-follower-jump.md` | X Analytics check: the Nov 8 "Shape over size" video caused the follower jump (replaces part 1 on that point) |
 | `simolmota-repost-check.csv` | Spreadsheet of the @SimolMota repost check |
 | `posts-2026-11-11.csv` | The 11 most recent public posts with views, likes, reposts, replies, quotes and engagement rate |
+| `grok-pov-analysis-2026-11-12.md` | Independent Grok POV / synthesis of the data, attribution, and recommendations (added Nov 12) |
 
-Source for all numbers: SuperX public snapshot of https://superx.so/creators/JaseJokerr, read Nov 11, 2026.
+Source for all numbers: SuperX public snapshot of https://superx.so/creators/JaseJokerr, read Nov 11, 2026, plus X Premium Analytics (Nov 12) for the correction.
 Engagement rate = (likes + reposts + replies + quotes) / views.
 
 Part 2 (X Analytics: follower graph by day, follows per post, reach from non-followers, retention, older posts) needs the account signed in to X in the browser.
