@@ -1,0 +1,17 @@
+Topic,Item,Finding,How we know
+Repost timing,Earliest possible repost time,"Nov 11, 2026, 5:15 AM Eastern",A post he reposted before yours was created at that time
+Repost timing,Most likely day,"Nov 11, 2026","163 reposts sit above yours, almost all of posts from Nov 11-12"
+Repost timing,Your post's position in his Reposts tab,#164,Counted from the top of his Reposts tab on Nov 12
+Repost timing,Exact repost time,Not shown by X,X does not timestamp reposts
+Profile,Joined,April 2026,His profile
+Profile,Followers,17800,His profile (17.8K)
+Profile,Following,4205,His profile
+Profile,Total posts,"About 11,000",His profile
+Profile,Avatar and bio,"Default avatar, no bio",His profile
+Activity,His own posts,Bare links to other accounts' adult videos,His Posts tab
+Activity,Last own post,"Aug 14, 2026",His Posts tab
+Activity,Since then,Reposts only,His Posts and Reposts tabs
+Activity,Repost volume,"About 100+ a day, mostly adult clips","174 reposts checked, almost all of posts from Nov 9-12"
+Verdict,What it looks like,"An automated repost account, not a real creator",Inference from the activity above
+Verdict,Did he cause the jump alone?,No,"17.8K followers cannot produce 207.4K impressions, and his feed buries each repost fast"
+Verdict,Most likely role,Helped push early engagement on Nov 11; X's For You feed did the rest,Inference; X Analytics shows 10.5% engagement on the post
