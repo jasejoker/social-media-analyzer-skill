@@ -16,6 +16,9 @@ All data below was collected on 2026-11-12 from Jordan's own signed-in accounts 
 - [youtube/youtube-audit-2026-11-12.md](youtube/youtube-audit-2026-11-12.md): findings, monetization distance, per-Short tables, risks.
 - [youtube/youtube-shorts-2026-11-12.csv](youtube/youtube-shorts-2026-11-12.csv): one row per Short.
 
+## 4. The plan
+- [plan/7-day-plan-2026-11-12.md](plan/7-day-plan-2026-11-12.md): 7-day plan (Nov 13 to 19): verdict, numbers gap, day-by-day schedule, 20 X post ideas, stop-doing list, payout setup checklist, risks. Written by Opus from the files above; numbers checked against the data.
+
 ## Not covered yet
 Facebook page insights (login needed a password), Instagram insights, TikTok sources of the reposted clips.
 
